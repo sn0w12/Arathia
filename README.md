@@ -1,1 +1,2 @@
 # Arathia
+Arathia Terraria Mod
